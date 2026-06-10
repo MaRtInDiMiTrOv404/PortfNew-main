@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martindimitrov404.github.io/PortfNew/sitemap.xml
